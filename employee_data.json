@@ -1,0 +1,22 @@
+[
+	{
+		"name":"Pranavi",
+		"gender":"Female",
+		"designation":"Artist"
+	},
+	{
+		"name":"Rahul",
+		"gender":"Male",
+		"designation":"Entrepreneur"
+	},
+	{
+		"name":"Jyothsna",
+		"gender":"Female",
+		"designation":"Engineer"
+	},
+	{
+		"name":"Nidhi",
+		"gender":"Male",
+		"designation":"Psychologist"
+	}
+]
